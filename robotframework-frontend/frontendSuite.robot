@@ -44,4 +44,21 @@ Testcase5_Homebutton
                            Navigate To Bedroom
                            Homebutton
                            Perform Logout
+Testcase6_DashboardLinks
+                           Perform Login
+                           Test blue link
+                           Navigate To Dashboard
+                           Test green link
+                           Navigate To Dashboard
+                           Test yellow link
+                           Navigate To Dashboard
+                           Test red link
+                           Perform Logout
                            
+
+
+
+
+
+
+
