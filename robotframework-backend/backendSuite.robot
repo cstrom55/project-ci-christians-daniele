@@ -18,5 +18,27 @@ Testcase5_PutBedroom
     Create bedroom
     Update bedroom
     Delete last bedroom
+    
+#-------
+       
 Testcase6_GetAllUsers
-    Get All Users
+      Get All Users
+   
+Testcase7_GetUserCount
+    Get total number of Users
+    
+Testcase8_PostNewUser
+    Create user
+    Delete last user    
+    
+Testcase9_GetUserById
+    Get User by ID  
+    
+Testcase10_PutUser
+    Create user
+    Update user
+    Delete last user
+
+  
+
+    
