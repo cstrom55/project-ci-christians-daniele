@@ -18,8 +18,5 @@ Testcase5_PutBedroom
     Create bedroom
     Update bedroom
     Delete last bedroom
-    
-#-------
-    
 Testcase6_GetAllUsers
     Get All Users
